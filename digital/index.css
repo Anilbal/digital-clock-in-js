@@ -1,0 +1,20 @@
+body{
+    background-color: #212121;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main{
+    margin-top: 200px;
+}
+.clock{
+    height: 50px;
+    width: 200px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FD9C00;
+    font-size: 18px;
+}
